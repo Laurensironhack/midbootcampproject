@@ -18,3 +18,5 @@ Google Sheets
 I visualised my analysis using the charts made in jupyter and Tableau. Google sheets was used to make the presentation.
 After my presentation I found out that I made a significant mistake in my code, which I later fixed. Thus, the presentation is not a
 100% good presentation of my findings.
+
+https://public.tableau.com/app/profile/laurens.heemskerk/viz/Booking_comreviewsmidcampproject/Sheet2?publish=yes
